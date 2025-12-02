@@ -6,9 +6,8 @@ Product image hosting via TRACO-PRODUCT-IMAGES
 Revolutionize agriculture through precision farming, modern seed technology, and PiNetwork blockchain-enabled digital solutions, creating a connected ecosystem for farmers, agri-businesses, and investors.
 
 🌾 TR-A-CO TRADE-AGRI-CONNECT — Pi App Studio
-🌐 Web URL: https://fodubutradeagric.fodubu.com
+🌐 Web URL: https://traco.fodubu.com
    Pi App Studio Url :https://fodubutradeagric2493.pinetwork.com
-🔗 API URL: https://api.fodubu.com/fodubutradeagric
 Features
 Agricultural marketplace & logistics integration
 Farmer identity (pi agri user ID) on blockchain
