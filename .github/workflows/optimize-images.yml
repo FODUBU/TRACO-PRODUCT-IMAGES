@@ -1,0 +1,15 @@
+// GitHub Actions for image optimization
+name: Optimize Product Images
+on:
+  push:
+    paths:
+      - 'fish/**/*.jpg'
+      
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Optimize JPEG images
+        run: |
+          find . -name "*.jpg" -exec convert {} -resize 800x600 -quality 85 {} \;
