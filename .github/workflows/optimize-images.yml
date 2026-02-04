@@ -3,7 +3,9 @@ name: Optimize Product Images
 on:
   push:
     paths:
-      - 'grainvariety/**/*.jpg'
+      - 'baseGrainVariety/**/*.jpg'
+      - 'hybrideGrainVariety/**/*.jpg'
+      - 'baseBodyVariety/**/*.jpg'
       
 jobs:
   optimize:
