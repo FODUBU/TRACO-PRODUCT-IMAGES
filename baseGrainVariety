@@ -1,0 +1,4 @@
+{ id: 1, name: "ZDM621", price: "0,00000644 Pi/kg", baseGrainVariety: "MAIZ", stock: 10000 },
+      { id: 2, name: "MUSIRIMU", price: "0.0000573 Pi", baseGrainVariety: "Haricots", stock: 10000 },
+      { id: 3, name: "JAUNE", price: "0,0000644 Pi/kg", baseGrainVariety: "haricots", stock: 10000 },
+      { id: 4, name: "MUKUNGUGU", price: "0,00000537 Pi/kg", baseGrainVariety: "haricots", stock: 10000 },
